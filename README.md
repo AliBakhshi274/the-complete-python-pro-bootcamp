@@ -4,8 +4,9 @@ My solutions for the projects included in [the Python course by Dr. Angela Yu](h
 
 ### Day 1 - Working with Variables in Python to Manage Data
 * [Solution: Brand Name Generator](day01)
-
 ### Day 2 - Understanding Data Types and How to Manipulate Strings
 * [Solution: Tip Calculator](day02)
 ### Day 3 - Control Flow and Logical Operators
 * [Solution: Treasure Island](day03)
+### Day 4 - Randomisation and Python Lists
+* [Solution: Rock Paper Scissors](day04)
