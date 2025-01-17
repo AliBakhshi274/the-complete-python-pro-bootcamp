@@ -16,3 +16,5 @@ My solutions for the projects included in [the Python course by Dr. Angela Yu](h
 * [Solution: Reeborg's World: Maze](day06)
 ### Day 7 - Hangman
 * [Solution: Hangman](day07)
+### Day 8 - Function Parameters & Caesar Cipher
+* [Solution: Caesar Cipher](day08)
