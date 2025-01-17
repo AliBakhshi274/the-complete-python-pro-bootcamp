@@ -1,10 +1,10 @@
 import copy
 from art import logo
 
-def encode_operation(shift_to_left, text, alphabet) -> str:
+def encode_decode_operation(shift, text, alphabet) -> str:
     temp = ""
     bkup_alphabet = copy.deepcopy(alphabet)
-    for i in range(shift_to_left):
+    for i in range(shift):
         temp += alphabet.pop(0)
     for i in range(len(temp)):
         alphabet += temp[i]
@@ -33,15 +33,19 @@ direction = input("Type '1' to encode or '2' to decode: ").lower()
 text = input("Type your text: ").lower()
 shift = int(input("Type the shift number: "))
 
-if direction == ENCODE:
-    print("encoding....")
-    print(f"Encoded text is: {encode_operation(shift, text, alphabet)}")
+while True:
+    if direction == ENCODE:
+        print("encoding....")
+        print(f"The text has been 'Encoded': {encode_decode_operation(shift, text, alphabet)}")
 
-elif direction == DECODE:
-    print("decoding....")
+    elif direction == DECODE:
+        print("decoding....")
+        shift_amount = len(alphabet) - shift
+        print(f"The text has been 'Decoded': {encode_decode_operation(shift_amount, text, alphabet)}")
 
-else:
-    print("enter a valid direction!!!")
+    user_choice = input("Type 'yes' if you want to go again. Otherwise, type 'no': ").lower()
+    if user_choice == "no":
+        break
 
 
 
