@@ -18,3 +18,7 @@ My solutions for the projects included in [the Python course by Dr. Angela Yu](h
 * [Solution: Hangman](day07)
 ### Day 8 - Function Parameters & Caesar Cipher
 * [Solution: Caesar Cipher](day08)
+### Day 9 - Dictionaries, Nesting and the Secret Auction
+* [Solution: Secret Auction](day09)
+### Day 10 - Functions with Outputs
+* [Solution: Calculator](day10)
