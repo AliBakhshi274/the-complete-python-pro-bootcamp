@@ -24,6 +24,42 @@ My solutions for the projects included in [the Python course by Dr. Angela Yu](h
 * [Solution: Calculator](day10)
 ### Day 11 - The Blackjack Capstone Project
 * [Solution: Blackjack](day11)
-###Day 12 - Scope & Number Guessing Game
+### Day 12 - Scope & Number Guessing Game
 * [Solution: Guess the Number](day12)
-* 
+### Day 13 - Debugging: How to Find and Fix Errors in your Code
+* [Solution: Debugging](day13)
+### Day 14 - Higher Lower Game Project
+* [Solution: Higher Lower Game](day14)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
