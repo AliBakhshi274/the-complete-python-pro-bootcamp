@@ -32,9 +32,8 @@ My solutions for the projects included in [the Python course by Dr. Angela Yu](h
 * [Solution: Higher Lower Game](day14)
 ### Day 15 - Local Development Environment Setup & the Coffee Machine
 * [Solution: Coffee Machine](day15)
-
-
-
+### Day 16 - Object Oriented Programming (OOP)
+* [Solution: OOP Coffee Machine](day16)
 
 
 
