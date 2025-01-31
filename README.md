@@ -36,8 +36,8 @@ My solutions for the projects included in [the Python course by Dr. Angela Yu](h
 * [Solution: OOP Coffee Machine](day16)
 ### Day 17 - The Quiz Project & the Benefits of OOP
 * [Solution: Quiz](day17)
-
-
+### Day 18 - Turtle & the Graphical User Interface (GUI)
+* [Solution: Hirst Painting](day18)
 
 
 
