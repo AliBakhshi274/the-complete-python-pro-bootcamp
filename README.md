@@ -38,7 +38,8 @@ My solutions for the projects included in [the Python course by Dr. Angela Yu](h
 * [Solution: Quiz](day17)
 ### Day 18 - Turtle & the Graphical User Interface (GUI)
 * [Solution: Hirst Painting](day18)
-
+### Day 20 - Build the Snake Game Part 1: Animation & Coordinates
+* [Solution: Snake Game Part 1](day20)
 
 
 
