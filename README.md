@@ -40,7 +40,10 @@ My solutions for the projects included in [the Python course by Dr. Angela Yu](h
 * [Solution: Hirst Painting](day18)
 ### Day 20 - Build the Snake Game Part 1: Animation & Coordinates
 * [Solution: Snake Game Part 1](day20)
-
+### Day 21 - Build the Snake Game Part 2: Inheritance & List Slicing
+* [Solution: Snake Game Part 2](day20)
+### Day 22 - Build Pong: The Famous Arcade Game
+* [Solution: Pong](day22)
 
 
 
