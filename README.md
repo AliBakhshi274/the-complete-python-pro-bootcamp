@@ -50,7 +50,8 @@ My solutions for the projects included in [the Python course by Dr. Angela Yu](h
 * [Solution: Mail Merge](day24)
 ### Day 25 - Working with CSV Data and the Pandas Library
 * [Solution: U.S. States Game](day25)
-
+### Day 26 - List Comprehension and the NATO Alphabet
+* [Solution: NATO Alphabet](day26)
 
 
 
