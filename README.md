@@ -48,7 +48,8 @@ My solutions for the projects included in [the Python course by Dr. Angela Yu](h
 * [Solution: Turtle Crossing](day23)
 ### Day 24 - Files, Directories and Paths
 * [Solution: Mail Merge](day24)
-
+### Day 25 - Working with CSV Data and the Pandas Library
+* [Solution: U.S. States Game](day25)
 
 
 
