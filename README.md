@@ -60,7 +60,8 @@ My solutions for the projects included in [the Python course by Dr. Angela Yu](h
 * [Solution: Password Manager](day29)
 ### Day 30 - Errors, Exceptions and JSON Data: Improving the Password Manager
 * [Solution: Password Manager Improved](day30)
-
+### Day 32 - Send Email (smtplib) & Manage Dates (datetime)
+* [Solution: Automated Birthday Wisher](day32)
 
 
 
