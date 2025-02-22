@@ -42,11 +42,6 @@ class QuizInterface:
         (score, is_correct) = self.quiz.check_answer(user_answer)
         self.score_label.config(text=f"Score: {score}")
         self.give_feedback(is_correct)
-        # if self.quiz.still_has_questions():
-        #     self.get_next_question()
-        # else:
-        #     self.true_btn.config(state=tkinter.DISABLED)
-        #     self.false_btn.config(state=tkinter.DISABLED)
 
     def give_feedback(self, is_correct):
         if is_correct:
