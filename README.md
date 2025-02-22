@@ -68,9 +68,8 @@ My solutions for the projects included in [the Python course by Dr. Angela Yu](h
 * [Solution: Quizzler](day34)
 ### Day 35 - Keys, Authentication & Environment Variables: Send SMS
 * [Solution: SMS Rain Alert](day35)
-
-
-
+### Day 37 - Habit Tracking Project: API Post Requests & Headers
+* [Solution: Habit Tracking](day36)
 
 
 

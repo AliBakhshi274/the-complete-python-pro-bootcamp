@@ -23,7 +23,7 @@ today = dt.datetime.now()
 for data_dict in data_list:
     if (data_dict['month'], data_dict['day']) == (today.month, today.day):
         msg_body = get_msg_body(data_dict['name'])
-        send_email(data_dict['email'], msg_body)
+        send_email("fojev41305@noomlocs.com", msg_body)
 
 
 
