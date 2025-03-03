@@ -74,6 +74,10 @@ My solutions for the projects included in [the Python course by Dr. Angela Yu](h
 * [Solution: Pixela Graph](day37)
 ### Workout Tracking Using Google Sheets
 * [Google Sheets Spreadsheet](day38)
+### Day 39 - Capstone Part 1: Flight Deal Finder
+* [Google Sheets Spreadsheet](day39_40)
+### Day 41 - Web Foundation - Introduction to HTML
+* [Solution: HTML - Personal Site](day41)
 
 
 
