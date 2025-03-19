@@ -86,7 +86,8 @@ My solutions for the projects included in [the Python course by Dr. Angela Yu](h
 * [Solution: Amazon Price Tracker](day47)
 ### Day 48 - Selenium Webdriver Browser and Game Playing Bot
 * [Solution: Automated Job Application Bot](day48)
-
+### Day 54 - Introduction to Web Development with Flask
+* [Solution: Flask Quickstart](day54)
 
 
 

@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>Login</title>
+	</head>
+	<body>
+        <div class="container">
+		<h1>Login</h1>
+        <form method="post" novalidate>
+			{{ form.hidden_tag() }}
+			{{ form.name.label }} <br> {{ form.name() }} <br>
+			{{ form.password.label }} <br> {{ form.password() }}
+			{{ form.email.label }} {{ form.email(size=30) }}
+			<input type="submit" value="Log In">
+		</form>
+        </div>
+
+	{% include "denied.html" %}
+	</body>
+</html>

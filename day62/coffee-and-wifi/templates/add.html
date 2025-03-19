@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+{% from 'bootstrap5/form.html' import render_form %}
+
+{% block title %}
+Add a new Cafe
+{% endblock %}
+
+{% block content %}
+<div class="container">
+    <div class="row">
+        <div class="col-sm-12 col-md-8 mx-md-auto mx-lg-auto">
+
+            <h1>Add a new cafe into the database</h1>
+
+            {{ render_form(form) }}
+
+            {% for id, items in suggestions.items() %}
+                <datalist id="suggestions_for_{{ id }}">
+                    {% for item in items %}
+                    <option value="{{ item }}"></option>
+                    {% endfor %}
+                </datalist>
+            {% endfor %}
+
+            <p class="space-above"><a href="#">See all cafes</a></p>
+
+        </div>
+    </div>
+</div>
+
+{% endblock %}
